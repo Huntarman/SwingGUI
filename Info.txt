@@ -12,4 +12,4 @@ the current position should suffice).
 
 Application should show one whole spin of the simple machine.
 
-Final grade: 3.5 - I didn't write the speed diagrams, and also omitted the error when the line "goes out" of the slider.
+Grade: 3.5 - I didn't write the speed diagrams, and also omitted the error when the line "goes out" of the slider.
