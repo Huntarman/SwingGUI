@@ -1,0 +1,15 @@
+3rd task:
+Write a Swing application, that visualises operation of a simple machine (picture)
+The machine consists of two connected lines, where the movement of the first rotates, and the second one's motion depends on the first's
+movement and passes through an articulated slider, which limits its movement. If the second line "goes out" of the slider, the application
+should notify the user with an error.
+
+The lenght of the first line(l1), the lenght of the second line(l2), the vertical(h) and horizontal(d) distance of the slider from the 
+origin of the coordinate system ( p0, where the first line begins) should be parametrized.
+
+On the GUI there should also be a horizontal speed and a vertical speed diagram of p2 point ( the difference between the previous position and
+the current position should suffice).
+
+Application should show one whole spin of the simple machine.
+
+Final grade: 3.5 - I didn't write the speed diagrams, and also omitted the error when the line "goes out" of the slider.
